@@ -1,12 +1,13 @@
 # macOS
 .DS_Store
 
-# Editor
+# editor
 .vscode/
 
-# enviroment 
-log/*
-testcase/*
+# enviroment
+log/
+build/
+testcase/
 enviroments
 
 # compiled file
